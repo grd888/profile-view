@@ -7,3 +7,5 @@ It has placeholders for profile photo and cover photo, name and position.
 The bottom area is a container view with embedded view controller that can be scrolled up to full view. Constraint-based animation was used for the scrolling function.
 
 ![giphy](https://user-images.githubusercontent.com/5038753/145807088-19fa435f-7575-400d-8a1d-6a4e62201512.gif)
+
+###### Photos by Mike and Min An from Pexels (pexels.com)
